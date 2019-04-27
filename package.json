@@ -1,0 +1,38 @@
+{
+  "name": "@ovac4u/laravel-mix-pack-react",
+  "version": "1.0.0",
+  "description": "A Laravel Mix extension for packing a react application installed as a dependency.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximVanhove/laravel-mix-pack-react.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "webpack",
+    "react",
+    "pack",
+    "bundle react",
+    "pack react",
+    "react bundler"
+  ],
+  "author": {
+    "name": "Victor Ariama",
+    "email": "iamovac@gmail.com",
+    "url": "http://www.ovac4u.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovac/laravel-mix-pack-react/issues"
+  },
+  "homepage": "https://github.com/ovac/laravel-mix-pack-react#readme",
+  "peerDependencies": {
+    "laravel-mix": "^4.0.0"
+  },
+  "dependencies": {
+    "@ovac4u/babel-preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5"
+  }
+}
